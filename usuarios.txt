@@ -1,0 +1,5 @@
+alberto,1234
+maria,panamadavis13,panama23
+davis12,panama25
+davis15,panama23
+& C:/Users/USUARIO/AppData/Local/Programs/Python/Python311/python.exe c:/Users/USUARIO/Desktop/Programacion/PROYECTO/compra.py,& C:/Users/USUARIO/AppData/Local/Programs/Python/Python311/python.exe c:/Users/USUARIO/Desktop/Programacion/PROYECTO/compra.py
